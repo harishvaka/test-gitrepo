@@ -1,3 +1,4 @@
 import requests
 
-requests.get("url")
+n = requests.get("url")
+
